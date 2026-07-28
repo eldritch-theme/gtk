@@ -1,14 +1,16 @@
---- a/Eldritch-Abyss/gtk-4.0/gtk.css	2026-05-29 00:11:54.671731373 -0300
-+++ a/Eldritch-Abyss/gtk-4.0/gtk.css	2026-05-29 00:13:52.870034942 -0300
-@@ -2623,7 +2623,7 @@
+--- a/Eldritch-Abyss/gtk-4.0/gtk.css
++++ b/Eldritch-Abyss/gtk-4.0/gtk.css
+@@ -2623,8 +2623,8 @@
  @define-color card_bg_color #252738;
  @define-color card_fg_color #d8e6e6;
  @define-color card_shade_color rgba(37, 39, 56, 0.07);
 -@define-color popover_bg_color #000000;
+-@define-color popover_fg_color #e5e3cd;
 +@define-color popover_bg_color #252738;
- @define-color popover_fg_color #e5e3cd;
++@define-color popover_fg_color #d8e6e6;
  @define-color shade_color rgba(0, 0, 0, 0.07);
  @define-color scrollbar_outline_color rgba(216, 230, 230, 0.33);
+ @define-color dialog_bg_color #171928;
 @@ -3087,3 +3087,32 @@
  
  
